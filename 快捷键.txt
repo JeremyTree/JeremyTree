@@ -1,0 +1,87 @@
+F1 显示当前程序或者 windows 的帮助内容。
+
+ 
+
+F2 当你选中一个文件的话，这意味着 “重命名 ”
+
+F3 当你在桌面上的时候是打开 
+
+F5 刷新
+
+F10+ALT 激活当前程序的菜单栏 “查找：所有文件 ” 对话框 （ WIN10 不适用）
+
+F11 当你在打开网页时，是隐藏侧边栏
+
+F12 在编辑好 Excel 或 Word 文档，可显示“另存为… ”
+
+Windows 键+B 选中桌面右下方 工具栏
+
+Windows 键+D 显示桌面
+
+Windows 键+E 打开我的电脑
+
+Windows 键+F 打开 “查找：所有文件 ”对话框 
+
+ 
+
+Windows 键+L 锁定计算机或切换用户
+
+Windows 键+M 最小化所有窗口
+
+Windows 键+BREAK 打开 “系统属性 ”对话框
+
+Windows 键+SHIFT+M 将最小化的窗口还原到桌面
+
+Windows 键+R 打开 “运行 ”对话框
+
+Windows 键+U 打开辅助工具管理器
+
+Windows 键+CTRL+F 搜索计算机（如果已连接到网络）
+
+Windows 键+ Pause 显示 “系统属性 ”对话框
+CTRL+ X 剪切被选择的项目到剪贴板
+
+CTRL+C 复制被选择的项目到剪贴板 
+
+CTRL+V 粘粘剪贴板里的内容
+
+CTRL+SHIFT+N 新建一个新的文件夹
+
+CTRL+A 全选文件夹内的文件
+
+CTRL+O 打开 “打开文件 ”对话框
+
+CTRL+P 打开 “打印”对话框
+
+CTRL+S 保存当前操作的文件
+
+CTRL+W 关闭当前的窗口
+
+CTRL+SHIFT 切换输入法
+
+CTRL+F4 关闭当前应用程序中的当前文本
+
+CTRL+F6 切换到当前应用程序中的下一个文本word 中）
+
+Ctrl+Tab 在选项卡上向前移动
+
+Ctrl+Shift+Tab 在选项卡上向后移动
+
+CTRL+ALT+方向键 可以在多屏幕间切换
+CTRL 拖动文件 复制文件 按住 
+
+按住 CTRL+SHIFT 拖动文件 创建快捷方式 
+
+DELETE 删除某项目并将其放入“回收站”
+
+SHIFT+DELETE 立即删除某项目而不将其放入“回收站 ” 
+
+F3 显示“查找：所有文件 ”
+
+F5 刷新窗口的内容
+
+F2 重命名项目 
+
+CTRL+ A 选择所有项目 
+
+ALT+双击 查看项目的属性
